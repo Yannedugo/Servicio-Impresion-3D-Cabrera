@@ -104,9 +104,9 @@ Gestión manual de impresión
 
 Actualmente:
 
-- Prusa
-- Ender
-- Otra impresora adicional
+- Prusa i3 MK3
+- Ender-3 S1
+- Anycubic Kobra 2 Neo
 
 > Actualizar esta sección si cambia el hardware.
 
